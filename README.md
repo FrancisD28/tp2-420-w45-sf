@@ -1,13 +1,15 @@
 # tp2-420-w45-sf
-
 Date: 02/12/23
 
+Travail fait par: Francis Dubois - 2391567
+
+## Description
+- l'installation d'un système de conteneur en respectant la procédure et les recommandations du manufacturier au besoin;
+- configurer le système de conteneurs en fonction d’une utilisation sécuritaire;
+- vérifier que les éléments installés fonctionnent comme prévu;
+- configurer des règles de gestions des accès sécuritaires.
 # SECTION 1 - Étape1 :
-
-
-  ## Vérification docker
-
-  
+ ## Vérification docker
 ![image](https://github.com/FrancisD28/tp2-420-w45-sf/assets/122577270/00479872-4988-46d8-a182-c0f3bb1c80f0)
 
 
