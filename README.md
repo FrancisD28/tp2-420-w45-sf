@@ -15,7 +15,7 @@ Travail fait par: Francis Dubois - 2391567
 
 
 # Étape2 : 
-## commade utilisé :
+## Commande utilisé :
 
 la création du réseau virtuel  :  
   - docker network create mon_reseau
